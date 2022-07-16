@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 主页
     url: '/'
     weight: 10
 
-  - name: Projects
+  - name: 项目
     url: project
     weight: 20
 
@@ -16,7 +16,7 @@ main:
     url: talk
     weight: 30
 
-  - name: Courses
+  - name: 课程
     url: course
     weight: 40
     identifier: courses
@@ -29,11 +29,11 @@ main:
     weight: 20
     parent: courses
 
-  - name: Publications
+  - name: 出版
     url: publication
     weight: 50
   
-  - name: Members
+  - name: 成员
     url: people
     weight: 60
   

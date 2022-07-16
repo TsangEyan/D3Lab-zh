@@ -3,7 +3,7 @@ widget: pages
 headless: true
 weight: 30
 
-title: Event
+title: 通知
 subtitle: 
 
 content:

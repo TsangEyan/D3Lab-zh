@@ -3,7 +3,7 @@ widget: contact
 headless: true
 weight: 40
 
-title: Join us
+title: 加入我们
 subtitle:
 
 content:
