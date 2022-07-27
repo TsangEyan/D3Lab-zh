@@ -1,10 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
 weight: 20
 
-title: 最新消息
+title: 最新日常活动
 subtitle:
 
 content:

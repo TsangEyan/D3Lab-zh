@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 日常活动
 
 # Listing view
 view: compact

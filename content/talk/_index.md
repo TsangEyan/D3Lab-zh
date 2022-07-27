@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: 视频报告
 
 # Listing view
 view: compact

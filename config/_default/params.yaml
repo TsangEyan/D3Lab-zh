@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
+  theme_day: Rose
+  theme_night: Rose
+  font: Minimal
   font_size: L
 
 # SEO
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: ''
+  time_format: ''
   address_format: en-us
 
 # Site features
@@ -106,6 +106,6 @@ extensions:
 
 # Citation style
 
-publications:
-  date_format: January 2006
-  citation_style: apa
+# publications:
+#   date_format: January 2006
+#   citation_style: apa

@@ -13,6 +13,8 @@ content:
   count: 2
   # Filter on criteria
   filters:
+    folders:
+      - event
     author: ''
     category: ''
     tag: ''
@@ -21,6 +23,7 @@ content:
     exclude_past: false
     publication_type: ''
   # Choose how many pages you would like to offset by
+  count: 2
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
@@ -32,5 +35,9 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-
+  columns: '2'
+  background:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    # padding: ["150px", "150px", "20px", "50px"]
 ---

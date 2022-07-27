@@ -1,11 +1,11 @@
 ---
-title: Projects
+title: 项目
 
-# Listing view
-view: compact
+view: Masonry
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
+<!-- {{< figure src="222.png" >}} -->

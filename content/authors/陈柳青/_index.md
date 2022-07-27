@@ -10,28 +10,28 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of ZJU
+role: 博士生导师
 
 # Organizations/Affiliations
 organizations:
-  - name: 【ZJU】
-    url: ''
+  - name: 浙江大学
+    url: 'https://person.zju.edu.cn/chenlq/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 主要研究方向：智能设计，智能交互，设计大数据，创意设计，AR/VR，用户体验，Web前端/UI。
 
 interests:
-  - Design Intelligence
-  - Computational creativity
-  - UI Design
-  - Human-computer interaction
-  - Artificial Intelligence
+  - 智能设计
+  - 智能交互
+  - UI设计
+  - 创新设计
+  - XR
 
 education:
   courses:
-    - course: 【PhD in 】
-      institution: 【Imperial College London】
-      year: 【2012】
+    - course: 博士
+      institution: 帝国理工学院
+      year: 2018
     
 
 # Social/Academic Networking
@@ -65,9 +65,22 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Advisor
-  - Ph.D. Students
-  - Master Students
 ---
 
 陈柳青，“百人计划”研究员，博士生导师（计算机科学与技术、设计学、电子信息），于2020年9月加入浙江大学计算机学院。在此之前，他是英国初创公司 Verchable Ltd. 的首席数据科学家，拥有英国特殊人才签证（现名“全球人才签证”），曾创立过人工智能公司 Smart-Pix，并入选英国顶级孵化器 Entrepreneur First 的人才计划。博士毕业于帝国理工学院，师从英国皇家工程院院士 Peter R.N. Childs 。目前也是中英人工智能协会的执委会委员。
-Dr. Liuqing Chen is the ZJU-100 Young Professor (and a doctoral supervisor in computer science, design science) at the College of Computer Science and Technology, Zhejiang University, since September 2020. Before joining ZJU, he was a Chief Data Scientist in Verchable Ltd (UK). He is a UK's Exceptional Talent visa holder. He started his career by co-founding Smart-Pix and then enrolled in Entrepreneur First's talent programme. He got his PhD degree from Imperial College London and was supervised by Peter R.N. Childs (FREng). 
+
+主要研究方向：智能设计，智能交互，设计大数据，创意设计，AR/VR，用户体验，Web前端/UI。
+感兴趣的技术：机器视觉（图像、视频的处理及生成），自然语言处理，数据挖掘及可视化，信息检索，知识工程。
+
+过去的研究项目：
+- B-Link: 基于大数据驱动的设计创意引擎 (www.b-link.uk)
+- 基于机器学习的创意设计的解析与生成（GANs等技术）
+- 视频理解系统（人脸识别、目标检测与追踪、动作识别、场景识别等技术）
+- 短视频智能生成技术（Deepfake）
+
+在研项目：
+- 用户意图主导的导购页面布局智能生成（主持，阿里巴巴合作项目，云栖大会2021主题演讲：链接）
+- UI 设计稿的智能检查与校正（主持，阿里巴巴合作项目）
+- 移动端AR导购的场景体验设计（主持，阿里巴巴合作项目）
+- 创意知识的发掘与应用（帝国理工合作项目）
+- 创意图像的智能生成与评估（利物浦大学合作项目）
