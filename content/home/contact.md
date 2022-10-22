@@ -8,7 +8,7 @@ subtitle:
 
 content:
   email: chenlq@zju.edu.cn
-  phone: 【实验室号码】
+  phone: ""
   address: 
     street:
     city: 浙江
@@ -27,8 +27,9 @@ design:
 ---
 
 ## 研究生
+
   blablabla
+
 ## 实习生
+
   blablabla
-
-
