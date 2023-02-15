@@ -2,8 +2,9 @@
 title: 'UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention'
 authors:
   - xsh
-  - Zhou T
+  - Zhou Tingting
   - cyn
+  - 陈柳青
 date: '2022-08-27T00:00:00Z'
 doi: ''
 
@@ -20,20 +21,19 @@ publication: In *Artificial Intelligence Second CAAI International Conference*
 publication_short: In *CICAI 2022*
 
 
-abstract: 摘要
+abstract: Graphic User Interface (GUI) is facing great demand with the popularization and prosperity of mobile apps. Automatic UI code generation from UI design draft dramatically simplifies the development process. However, the nesting layer structure in the design draft affects the quality and usability of the generated code. Few existing GUI automated techniques detect and group the nested layers to improve the accessibility of generated code. In this paper, we proposed our UI Layers Group Detector as a vision-based method that automatically detects images (i.e., basic shapes and visual elements) and text layers that present the same semantic meanings. We propose two plug-in components, text fusion and box attention, that utilize text information from design drafts as a priori information for group localization. We construct a large-scale UI dataset for training and testing, and present a data augmentation approach to boost the detection performance. The experiment shows that the proposed method achieves a decent accuracy regarding layers grouping.
 
 # Summary. An optional shortened abstract.
-summary: An optional shortened abstract.
 
 tags:
   - Publication
 featured: true
 
 links:
-  - name: Custom Link
-    url: '#'
+  - name: Paper Link
+    url: 'https://link.springer.com/chapter/10.1007/978-3-031-20500-2_25'
 url_pdf: ''
-url_code: '#'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -43,10 +43,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -54,9 +54,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example1
-  - example2
-  - example3
+  - project_3
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -66,8 +65,8 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

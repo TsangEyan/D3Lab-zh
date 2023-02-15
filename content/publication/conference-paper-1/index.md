@@ -1,6 +1,8 @@
 ---
 title: 'A study of the methods for evaluating machine generated images containing combinational creativity'
 authors:
+  - Wang B
+  - Zhu Y
   - 陈柳青
 date: '2022-06-23T00:00:00Z'
 doi: ''
@@ -17,7 +19,7 @@ publication_types: ['1']
 publication: In *Artificial Intelligence for Engineering Design, Analysis and Manufacturing*
 publication_short: In *AI EDAM2023*
 
-abstract: 摘要
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: An optional shortened abstract.
@@ -27,10 +29,10 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
+  - name: Paper Link
     url: '#'
 url_pdf: ''
-url_code: '#'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -40,20 +42,19 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example1
-  - example2
-  - example3
+
+# projects:
+#   - example1
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -63,8 +64,8 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
