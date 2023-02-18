@@ -5,32 +5,33 @@
 
 main:
   - name: 主页
-    url: '/'
+    url: "/"
     weight: 10
 
-  - name: 项目
-    url: project
+  - name: 加入我们
+    url: contact
     weight: 20
+
+  - name: 研究
+    url: project
+    weight: 30
+
+  - name: 论文
+    url: publication
+    weight: 40
 
   - name: 报告
     url: talk
-    weight: 30
+    weight: 50
 
   - name: 课程
     url: course
-    weight: 40
+    weight: 60
     identifier: courses
- 
-  - name: 论文
-    url: publication
-    weight: 50
-  
+
   - name: 成员
     url: people
-    weight: 60
-  
-  - name: 英文网
-    url: 'https://TsangEyan.github.io/'
     weight: 70
-  
-  
+  # - name: 英文网
+  #   url: 'https://TsangEyan.github.io/'
+  #   weight: 70

@@ -1,5 +1,5 @@
 ---
-title: 日常活动
+title: 消息
 
 # Listing view
 view: compact

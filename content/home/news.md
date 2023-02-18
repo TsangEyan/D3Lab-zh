@@ -3,7 +3,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: 最新日常活动
+title: 消息
 subtitle:
 
 content:
@@ -19,7 +19,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 2
+  count: 4
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
