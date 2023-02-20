@@ -8,14 +8,13 @@ subtitle:
 
 content:
   email:  陈柳青 chenlq@zju.edu.cn
-  phone: ""
   address: 
     street:
     city: 浙江
     region: 杭州
     postcode: 浙江大学紫金港校区月牙楼403
     country: 中国
-    country_code: ZH-CN
+    # country_code: ZH-CN
   # coordinates:
   #   latitude: '30.3073'
   #   longitude: '120.0818'

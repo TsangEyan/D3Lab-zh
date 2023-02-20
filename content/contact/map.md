@@ -14,19 +14,13 @@
 #   # Add custom styles
 #   css_style:
 #   css_class:
-
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
 # This file represents a page section.
-headless: true
+# headless: true
 
 # Order that this section appears on the page.
 weight: 20
-
-title:
-subtitle:
 
 design:
   columns: '1'
@@ -38,7 +32,9 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['20px', '20px', '20px', '20px']
 advanced:
-  css_class: fullscreen
+  css_class: -ms-fullscreen
 ---
+
+<!-- {{< figure src="map.png">}} -->

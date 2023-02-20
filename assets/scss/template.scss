@@ -21,9 +21,18 @@
 //   line-height: 3.25;
 // }
 
-
+//home welcome
 #welcome > div.container > div > div.col-12.col-md-6.text-center.text-md-left > div > p {
   font-size: 0.9rem;
+}
+
+//contact map
+#map {
+  width: 80vw;
+  height: 80vh;
+  text-align: center;
+  margin: auto;
+  margin-top: -5%;
 }
 
 // Center the CTA shortcode button
