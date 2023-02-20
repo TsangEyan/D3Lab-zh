@@ -1,4 +1,29 @@
 ---
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
+# title: D3 Lab
+# subtitle:
+
+design:
+  columns: '1'
+  background:
+    image: yyl.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ['20px', '0', '20px', '0']
+advanced:
+  css_class: fullscreen
+
 # # A Demo section created with the Blank widget.
 # # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # # Add more sections by duplicating this file and customizing to your requirements.
@@ -17,28 +42,4 @@
 
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 10
-
-title:
-subtitle:
-
-design:
-  columns: '1'
-  background:
-    image: yyl.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
 ---
