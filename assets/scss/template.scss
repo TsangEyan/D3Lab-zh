@@ -59,3 +59,13 @@
 .powered-by{
   display: none;
 }
+
+
+//post 
+#news > div.container > div > div:nth-child(2) > div:nth-child(1) > div.media-body > a > div {
+  display: none;
+}
+
+#news > div.container > div > div:nth-child(2) > div:nth-child(3) > div.media-body > a > div{
+  display: none;
+}
