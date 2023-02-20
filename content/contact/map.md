@@ -23,7 +23,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title:
 subtitle:
@@ -31,7 +31,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: yyl.jpg
+    image: map.png
     image_darken: 0
     image_parallax: false
     image_position: center

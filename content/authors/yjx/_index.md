@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士生
+role: 2023级硕士生
 
 # Organizations/Affiliations
 organizations:

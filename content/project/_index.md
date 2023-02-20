@@ -1,5 +1,5 @@
 ---
-title: 项目
+title: 研究
 
 view: Masonry
 

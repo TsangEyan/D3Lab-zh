@@ -6,7 +6,7 @@
 # widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 20 # Order that this section will appear.
-title: 实验室介绍
+title: D3 Lab
 type: landing
 
 design:

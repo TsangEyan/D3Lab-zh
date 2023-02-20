@@ -3,7 +3,7 @@ widget: pages
 headless: true
 weight: 40
 
-title: 项目
+title: 研究
 subtitle: 
 
 content:
@@ -25,5 +25,5 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-  columns: '2'
+  columns: '1'
 ---

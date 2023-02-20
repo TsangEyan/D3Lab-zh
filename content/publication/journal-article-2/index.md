@@ -4,6 +4,7 @@ authors:
   - Zuo H
   - jqz
   - 陈柳青
+  - et al
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
