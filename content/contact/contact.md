@@ -19,7 +19,7 @@ content:
   # coordinates:
   #   latitude: '30.3073'
   #   longitude: '120.0818'
-  autolink: true
+  # autolink: true
 design:
   columns: '1'
 ---
