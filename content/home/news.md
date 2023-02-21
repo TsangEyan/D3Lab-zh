@@ -27,6 +27,10 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
-  columns: '1'
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 1
+  columns: '2'
 ---
