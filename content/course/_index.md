@@ -58,7 +58,7 @@ gallery_item:
 **优秀学生作品**
 
 + CC98缘分天空数据分析（2021）
-{{< figure src="./courses/graduate_courses_1.png">}}
+{{< figure src="./courses/graduate_courses_11.png">}}
 
 + 唐诗宋词数据可视化及分析（2022）
 {{< figure src="./courses/graduate_courses_2.png">}}
